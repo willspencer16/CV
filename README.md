@@ -1,6 +1,6 @@
-## Your Name
+## Will Spencer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A young and personable professional with experience improving software and efficiency through developing internal systems in customer facing organisations specialising in the delivery of high quality services to discerning clients. Made the decision to gain further and more technical knowledge of software development, joining Makers Academy.
 
 ## Projects
 
@@ -11,15 +11,39 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ASMALLWORD**  
+_Senior Operations Executive_ (October 2019 - December 2020)
 
-- Any experience relevent to software development
+- Played a vital role in the successful U.K. launch of the business, including having full responsibility for the selection of all internal system providers and other business partnerships.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Head of writing and implementing internal system procedures, including the high net worth client experience from start to finish, ensuring its efficiency and usability for sales teams.
 
-- Any experience relevent to software development
+- Responsible for distributing all client and business enquiries through internal systems, ensuring allocation to the most suitable person or department and appropriate follow up.
+
+- Liaising with different teams within the business to create and analyse weekly sales reports for directors, suggesting and identifying areas of improvement.
+
+- Head of all ongoing systems analysis and development as business rolls out.
+
+
+**Scott Dunn**
+_Sales Operations_  (November 2017 - October 2019)
+
+- Designing and improving the company’s internal software, through working with sales and development teams to help increase productivity and sales.
+
+- Lead systems trainer, personally designing training process for new starters on internal systems and current employees on new process, as well as improving current processes.
+
+- Redesigning and maintaining the interface of the company’s intranet, including writing a weekly business update, to ensure a high level of communication within the business and overseas offices.
+
+- Collate and analyse data received from client feedback, including issues and complaints, along with data received from new marketing strategies and sales figures.
+
+- Day to day management of a team of 31 employees, ensuring a high standard of customer service communication is upheld between all international offices and suppliers in different time zones.
+
+_Business Co-ordinator_  (November 2016 - October 2017)
+
+- Supporting eleven consultants to meet specific client and supplier needs by responding quickly and efficiently using company’s internal system, whilst reviewing and improving processes.
+
+- Understanding the products provided through regular communication with suppliers to allow the
+best possible service to be provided to the high net worth client.
 
 ## Skills
 
@@ -42,23 +66,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 - May 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cranleigh School
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- 3 A Levels, including English (C) Business Studies (D) Geography (E).
+- 10 GCSEs, grades A-D, including Maths (B) and English (B).
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Outside of work I can be found on a tennis court or football pitch most evenings, keeping fit and active. I
+have completed a PADI Open Water qualification in Thailand and passed my RYA Power Boat Level 2
+licence in Mallorca.
