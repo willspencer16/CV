@@ -2,13 +2,6 @@
 
 A young and personable professional with experience improving software and efficiency through developing internal systems in customer facing organisations specialising in the delivery of high quality services to discerning clients. Made the decision to gain further and more technical knowledge of software development, joining Makers Academy.
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
 ## Experience
 
 **ASMALLWORD**  
@@ -45,24 +38,21 @@ _Business Co-ordinator_  (November 2016 - October 2017)
 - Understanding the products provided through regular communication with suppliers to allow the
 best possible service to be provided to the high net worth client.
 
-## Skills
+**Foster Denovo**
+_Client Experience Executive_ (July 2015 – November 2016)
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Helped to deliver Foster Denovo’s Client Services Proposition by providing high quality support service to high net worth clients.
+- Provided regular updates to the clients and Partners, with a professional demeanour both on the telephone and in written form.
+- Familiarisation of each client’s circumstances, objectives and timescales to ensure client expectations were met and exceeded by building a personalised service.
+- Liaison with the Partners and Paraplanners to highlight any concerns or potential problems and ensured a high level of efficiency was upheld.
+- Completed complex financial transactions whilst keeping client information updated on the internal system Intelligent Office.
 
-#### This Skill
 
-- Experience
-- Achievements
-- Evidence
+**AJ Buckley Asset Management Limited**
+_Financial Services Administrator_ (September 2014 – July 2015)
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- First point of contact for the company, responsible for maintaining high levels of communication with clients, external agencies and suppliers.
+- Liaison with clients on a day-to-day basis, keeping them fully informed of their investment portfolios and other information requested via telephone or email.
 
 ## Education
 
